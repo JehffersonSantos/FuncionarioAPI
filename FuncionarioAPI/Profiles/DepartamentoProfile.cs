@@ -12,7 +12,7 @@ namespace FuncionarioAPI.Profiles
             CreateMap<Departamento, ReadDepartamentoDto>();
             CreateMap<UpdateDepartamentoDto, Departamento>();
 
-            teste
+            
         }
     }
 }
